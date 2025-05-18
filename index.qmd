@@ -51,7 +51,7 @@ Here you can find slides, examples and case studies.
 
 Material is subject to changes during the module.
 
-## **Main references** 
+## **Main references**
 
 1.  Blei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. *Journal of the American Statistical Association*, **112**(518), 859–877.
 
