@@ -1,0 +1,72 @@
+---
+title: "Bayesian Computations"
+subtitle: "Ph.D. in Economics, Statistics, and Data Science"
+author: "[Riccardo Corradin]{.text-primary}"
+institute: "_Università degli Studi di Milano-Bicocca_"
+lang: eng
+execute:
+  cache: true
+page-layout: full
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+editor: visual
+---
+
+In this page, you can find teaching materials, examples, case studies and information related to the Bayesian Computations module of the PhD course in Bayesian statistics.
+
+I gently acknowledge Tommaso Rigon, who has developed initially the material of this module. The previous version of the module material is available at the following link
+
+<https://tommasorigon.github.io/CompStat/>
+
+All credits goes to him, all mistakes are mine.
+
+## **Prerequisites**
+
+It is assumed the knowledge of the following topics:
+
+-   Fundamentals of Bayesian statistics. Refer to Chapters 1-5 of Hoff (2009).
+
+-   Monte Carlo integration. Refer to Chapter 3 of Robert and Casella (2009), or Chapter 4 of Hoff (2009).
+
+## **Teaching material**
+
+Here you can find slides, examples and case studies.
+
++------------------------------------+------------------------------------------+-----------------------------------+
+| Topic                              | Slides                                   | Further material                  |
++====================================+==========================================+===================================+
+| Introduction                       | [slides introduction](slides/slide1.pdf) | [code introduction](code/code1.R) |
++------------------------------------+------------------------------------------+-----------------------------------+
+| Adaptive and dynamic-based methods | [slides ad&dyn](slides/slide2.pdf)       | [code ad&dyn](code/code2.R)       |
+|                                    |                                          |                                   |
+|                                    |                                          | [Rcpp RWMH](code/RWMH.cpp)        |
++------------------------------------+------------------------------------------+-----------------------------------+
+| TBD                                |                                          |                                   |
++------------------------------------+------------------------------------------+-----------------------------------+
+| TBD                                |                                          |                                   |
++------------------------------------+------------------------------------------+-----------------------------------+
+
+Material is subject to changes during the module.
+
+## **Main references** 
+
+1.  Blei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. *Journal of the American Statistical Association*, **112**(518), 859–877.
+
+2.  Chopin, N. and Ridgway, J. (2017). Leave Pima indians alone: binary regression as a benchmark for Bayesian computation. *Statistical Science*, **32**(1), 64–87.
+
+3.  Durante, D. and Rigon, T. (2019). Conditionally conjugate mean-field variational Bayes for logistic models. *Statistical Science*, **34**(3), 472–485.
+
+4.  Eddelbuettel, D. and Balamuta, J. J. (2018). Extending R with C++: a brief introduction to Rcpp. *The American Statistician*, **72**(1), 28–36.
+
+5.  Hunter, D. R., and Lange, K. (2004). A Tutorial on MM Algorithms. *The American Statistician*, **58**(1), 30–37.
+
+6.  Neal, R. M. (2011). MCMC using Hamiltonian dynamics. CRC press.
+
+7.  Polson, N. G., Scott, J. G. and Windle J. (2013). Bayesian inference for logistic models using Pólya–Gamma latent variables. *Journal of the American Statistical Association*, **108**(504), 1339–1349.
+
+8.  Roberts, G. O. and Rosenthal, J. S. (2001). Optimal scaling for various Metropolis-Hastings algorithms. *Statistical Science*, **16**(4), 351–367.
+
+9.  Roberts, G. O. and Rosenthal, J. S. (2009). Examples of adaptive MCMC. *Journal of Computational and Graphical Statistics*, **18**(2), 349–367.

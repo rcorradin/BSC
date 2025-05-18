@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - /files
+    - /img
+    - /data
+    - /slides
+    - /code
+
+website:
+  title: "BSM"
+
+format:
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    theme: [simplex]
+    # theme: [simplex, theme.scss]
+    toc: true
+    toc-location: left
+    toc-title: Summary
+    toc-depth: 3
+    linkcolor: darkblue
+    page-layout: full
+    fontsize: 1.1em
+    css: styles.css
+
+editor: visual
+

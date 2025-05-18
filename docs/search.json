@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bayesian Computations",
+    "section": "",
+    "text": "In this page, you can find teaching materials, examples, case studies and information related to the Bayesian Computations module of the PhD course in Bayesian statistics.\nI gently acknowledge Tommaso Rigon, who has developed initially the material of this module. The previous version of the module material is available at the following link\nhttps://tommasorigon.github.io/CompStat/\nAll credits are his, all mistakes are mine."
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Bayesian Computations",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThe course is modular, meaning that depending on the background of the participants different units will be covered. However, it is assumed the knowledge of the following topics:\n\nFundamentals of Bayesian statistics. Refer to Chapters 1-5 of Hoff (2009).\nMonte Carlo integration. Refer to Chapter 3 of Robert and Casella (2009), or Chapter 4 of Hoff (2009)."
+  },
+  {
+    "objectID": "index.html#teaching-material",
+    "href": "index.html#teaching-material",
+    "title": "Bayesian Computations",
+    "section": "Teaching material",
+    "text": "Teaching material\nHere you can find slides, examples and case studies.\n\n\n\nTopic\nSlides\nFurther material\n\n\n\n\nIntroduction\nslides introduction\ncode introduction\n\n\nAdaptive and dynamic-based methods\nslides ad&dyn\ncode ad&dyn\nRcpp RWMH\n\n\nTBD\n\n\n\n\nTBD\n\n\n\n\n\nMaterial is subject to changes during the module."
+  },
+  {
+    "objectID": "index.html#main-references",
+    "href": "index.html#main-references",
+    "title": "Bayesian Computations",
+    "section": "Main references",
+    "text": "Main references\n\nBlei, D. M., Kucukelbirb A., and McAuliffe, J. D. (2017). Variational inference: a review for statisticians. Journal of the American Statistical Association, 112(518), 859–877.\nChopin, N. and Ridgway, J. (2017). Leave Pima indians alone: binary regression as a benchmark for Bayesian computation. Statistical Science, 32(1), 64–87.\nDurante, D. and Rigon, T. (2019). Conditionally conjugate mean-field variational Bayes for logistic models. Statistical Science, 34(3), 472–485.\nEddelbuettel, D. and Balamuta, J. J. (2018). Extending R with C++: a brief introduction to Rcpp. The American Statistician, 72(1), 28–36.\nHunter, D. R., and Lange, K. (2004). A Tutorial on MM Algorithms. The American Statistician, 58(1), 30–37.\nNeal, R. M. (2011). MCMC using Hamiltonian dynamics. CRC press.\nPolson, N. G., Scott, J. G. and Windle J. (2013). Bayesian inference for logistic models using Pólya–Gamma latent variables. Journal of the American Statistical Association, 108(504), 1339–1349.\nRoberts, G. O. and Rosenthal, J. S. (2001). Optimal scaling for various Metropolis-Hastings algorithms. Statistical Science, 16(4), 351–367.\nRoberts, G. O. and Rosenthal, J. S. (2009). Examples of adaptive MCMC. Journal of Computational and Graphical Statistics, 18(2), 349–367."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
