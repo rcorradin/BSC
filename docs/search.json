@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Bayesian Computations",
     "section": "",
-    "text": "In this page, you can find teaching materials, examples, case studies and information related to the Bayesian Computations module of the PhD course in Bayesian statistics.\nI gently acknowledge Tommaso Rigon, who has developed initially the material of this module. The previous version of the module material is available at the following link\nhttps://tommasorigon.github.io/CompStat/\nAll credits are his, all mistakes are mine."
+    "text": "In this page, you can find teaching materials, examples, case studies and information related to the Bayesian Computations module of the PhD course in Bayesian statistics.\nI gently acknowledge Tommaso Rigon, who has initially developed the material of this module. The previous version of the module material is available at the following link\nhttps://tommasorigon.github.io/CompStat/\nAll credits goes to him, all mistakes are mine."
   },
   {
     "objectID": "index.html#prerequisites",
     "href": "index.html#prerequisites",
     "title": "Bayesian Computations",
     "section": "Prerequisites",
-    "text": "Prerequisites\nThe course is modular, meaning that depending on the background of the participants different units will be covered. However, it is assumed the knowledge of the following topics:\n\nFundamentals of Bayesian statistics. Refer to Chapters 1-5 of Hoff (2009).\nMonte Carlo integration. Refer to Chapter 3 of Robert and Casella (2009), or Chapter 4 of Hoff (2009)."
+    "text": "Prerequisites\nIt is assumed the knowledge of the following topics:\n\nFundamentals of Bayesian statistics. Refer to Chapters 1-5 of Hoff (2009).\nMonte Carlo integration. Refer to Chapter 3 of Robert and Casella (2009), or Chapter 4 of Hoff (2009)."
   },
   {
     "objectID": "index.html#teaching-material",

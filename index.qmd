@@ -17,7 +17,7 @@ editor: visual
 
 In this page, you can find teaching materials, examples, case studies and information related to the Bayesian Computations module of the PhD course in Bayesian statistics.
 
-I gently acknowledge Tommaso Rigon, who has developed initially the material of this module. The previous version of the module material is available at the following link
+I gently acknowledge Tommaso Rigon, who has initially developed the material of this module. The previous version of the module material is available at the following link
 
 <https://tommasorigon.github.io/CompStat/>
 
