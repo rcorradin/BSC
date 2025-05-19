@@ -21,7 +21,7 @@ I gently acknowledge Tommaso Rigon, who has initially developed the material of 
 
 <https://tommasorigon.github.io/CompStat/>
 
-All credits goes to him, all mistakes are mine.
+All credit goes to him, all mistakes are mine.
 
 ## **Prerequisites**
 
