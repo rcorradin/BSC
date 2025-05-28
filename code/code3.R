@@ -61,11 +61,10 @@ R <- 30000 # Number of retained samples
 # S is the covariance matrix of the multivariate Gaussian proposal
 
 IS <- function(R, y, X, S, mu) {
-  p <- ncol(X)
   out <- matrix(0, R, p) # Initialize an empty matrix to store the values
   proposed_values <- rmvnorm(R, mean = mu, sigma = S)
   weights <- apply(proposed_values, 1, function(x) logpost(x, y, X)) - 
-    - dmvnorm(proposed_values, , mean = summary(fit_logit)$coefficients[,1], sigma = S, log = TRUE)
+    - dmvnorm(proposed_values, mean = summary(fit_logit)$coefficients[,1], sigma = S, log = TRUE)
   list(values = proposed_values, weights = weights - logsumexp(weights))
 }
 
