@@ -44,9 +44,9 @@ Here you can find slides, examples and case studies.
 |                                    |                                          |                                   |
 |                                    |                                          | [Rcpp RWMH](code/RWMH.cpp)        |
 +------------------------------------+------------------------------------------+-----------------------------------+
-| Importance sampling                | [slide IS](slides/slide3.pdf)            | [code IS](code/code3.R)           |
+| QMC and Importance sampling        | [slide IS](slides/slide3.pdf)            | [code IS](code/code3.R)           |
 +------------------------------------+------------------------------------------+-----------------------------------+
-| TBD                                | [slide approximate](slides/slide4.pdf)   | [code approximate](code/code4.R)  |
+| Approximate inference              | [slide approximate](slides/slide4.pdf)   | [code approximate](code/code4.R)  |
 +------------------------------------+------------------------------------------+-----------------------------------+
 
 Material is subject to changes during the module.
